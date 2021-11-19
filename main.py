@@ -17,3 +17,8 @@ while sikl:
     result = checker(a)
     print(result)
 
+
+###
+Sobirov Sobirjon
+###
+
